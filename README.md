@@ -2,7 +2,8 @@
 
 Data/Applied Scientist with 6+ years of experience working with Fortune 500 clients across e-Commerce, Retail and Technology industries applying Machine Learning, Deep Leaning (Natural Language Processing and Computer Vision) capabilities to solve and automate complex business problems & support data driven decision making.
 
-Experience working in projects like:
+ Projects :
+
 + Visual Search for Zappos | Tools used: CNN, PyTorch, AWS, Gradio (Ongoing)
   - Created capability of Image Search for the website using finetuned CLIP model for classifying the uploaded image and feature extraction of product images with Recall@10 of ~70% and using ElasticSearch indexes to return similar images in real-time with <2 seconds using nearest neighbour search
 +	Outfit Builder/Complimentary Product Recommendation Model | Tools used: CNN, Keras, AWS, Gradio
@@ -33,6 +34,7 @@ scoring) model to efficiently target only the most probable customers among who 
   - Built a Collaborative filtering based Recommendation Engine with an RMSE of ~1 on predicting user ratings in the
   range [1,5] using ALS Algorithm from Apache Spark MLLib on MovieLens 1M movie rating dataset
 
+</details>
 
 
 Skills: Skills: Python, SQL, Machine Learning, NLP, Computer Vision, Scikit Learn, Keras, Pytorch, Apache Spark MLlib, MLOps, Model Interpretation
