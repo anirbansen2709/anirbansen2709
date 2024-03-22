@@ -4,7 +4,7 @@ Data/Applied Scientist with 6+ years of experience working with Fortune 500 clie
 
  Projects :
 
-+ Visual Search for Zappos | Tools used: CNN, PyTorch, AWS, Gradio (Ongoing)
++ Visual Search for Zappos | Tools used: PyTorch, AWS, Gradio (Ongoing)
   - Created capability of Image Search for the website using finetuned CLIP model for classifying the uploaded image and feature extraction of product images with Recall@10 of ~70% and using ElasticSearch indexes to return similar images in real-time with <2 seconds using nearest neighbour search
 +	Outfit Builder/Complimentary Product Recommendation Model | Tools used: CNN, Keras, AWS, Gradio
     - Improved the CTR of the existing ‘Complete The Look’ recommendation widget by 25% based on an AB Test. Achieved this by developing a custom DL based outfit prediction model using ResNetv2 and SBERT as the backbone models on an outfit dataset of 45k+ curated from Open-Source and deployed using Dynamo DB 
